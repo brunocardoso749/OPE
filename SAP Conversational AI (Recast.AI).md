@@ -1,1 +1,22 @@
-# Documentação sobre o Recast.AI
+# Documentação sobre o ChatBot
+
+
+
+
+
+
+# Problema
+
+
+
+
+
+
+
+# Solução 
+
+
+
+
+
+
